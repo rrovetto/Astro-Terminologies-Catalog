@@ -1,5 +1,5 @@
-# Astro-Terminology
-A catalog of astro- or space-related knowledge organization systems (terminologies, vocabularies, thesauri, ontologies, etc.).
+# Catalog of Astro-related Terminologies
+A living catalog, listing astro- or space-related knowledge organization systems (terminologies, vocabularies, thesauri, ontologies, knowledge graphs, etc.).
 
 ## The catalog
 - The file(s) is expected to be added to this repository (TBD).
