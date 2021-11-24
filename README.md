@@ -1,6 +1,6 @@
 # Catalog of Astro-related Terminologies
 A living catalog, listing astro- or space-related knowledge organization systems (terminologies, vocabularies, thesauri, ontologies, knowledge graphs, etc.).
-
+Alternative names: Space Terminologies Catalog. Catalog of Space Terminologies. Catalog of Space Vocabularies.
 ## The catalog
 - The file(s) is expected to be added to this repository (TBD).
 - The working catalog (in Microsoft Excel format) is presently located online [here](https://docs.google.com/spreadsheets/d/16XifdG0dy_8AxHJWdg969xSkNgcchRrk/edit?usp=sharing&ouid=112380258804517309117&rtpof=true&sd=true)
