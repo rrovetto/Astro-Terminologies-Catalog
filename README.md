@@ -1,4 +1,4 @@
-# Catalog of Astro-related Vocabularies/Terminologies
+# Catalog of Space/Astro Vocabularies/Terminologies
 A living catalog that lists astro/space-related knowledge organization systems (terminologies, vocabularies, thesauri, ontologies, knowledge graphs, etc.).
 _Alternative names_: Space Terminologies Catalog. Catalog of Space Terminologies. Catalog of Space Vocabularies. Catalogy of Space Semantic Systems.
 ## The catalog
