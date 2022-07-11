@@ -16,7 +16,7 @@ Overarching questions:
 
 ## Related projects
 The output of these activities can be stand-alone. 
-The activities are also part of the 
+The activities are also part of the a broader and more complex project about knowledge-based modeling of the given topic areas: [Space Domain Knowledge Modeling](https://github.com/rrovetto/Orbital-Space-Ontology-Project)
 
 ## Copyright
 © 2016-2022, Robert J. Rovetto.
