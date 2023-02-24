@@ -14,6 +14,9 @@ _Alternative names_: Space Terminologies Catalog. Catalog of Space Terminologies
 - Offer formal support or employment opportunity to the developer.
 - You may send suggestions to add to the catalog.
 
+## Contact
+[Contact the developer here](https://ontospace.wordpress.com/contact).
+
 ## Copyright
 © 2016-2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. 
