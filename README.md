@@ -11,7 +11,8 @@ _Alternative names_: Space Terminologies Catalog. Catalog of Space Terminologies
 
 ## How you an help
 - Financial support by donating [here](https://tinyurl.com/donateViaPayPalrr) or [here](https://tinyurl.com/yyoo6z96)
-- Offer formal support or employment opportunity to the developer. 
+- Offer formal support or employment opportunity to the developer.
+- You may send suggestions to add to the catalog.
 
 ## Copyright
 © 2016-2023, Robert John Rovetto. All right reserved.
